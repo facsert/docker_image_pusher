@@ -1,11 +1,12 @@
 # database
-postgres:latest
-redis/redis-stack:latest
-mysql:latest
-mongo:latest
+# postgres:latest
+# redis/redis-stack:latest
+# mysql:latest
+# mongo:latest
 
 # tool
-gitlab/gitlab-ce:latest
+# gitlab/gitlab-ce:latest
+gitlab/gitlab-runner
 
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
